@@ -7,7 +7,6 @@ Este proyecto ha sido desarrollado de manera colaborativa por Germán Soto Sánc
 ## 🇺🇸 English
 This script is a proof of concept (PoC) of an information collector for Windows systems written in Batch. It extracts system artifacts, network configurations, and hardware data.
 This project was collaboratively developed by Germán Soto Sánchez and Juan Carlos Ramírez Gutiérrez, combining their knowledge and experience to create a joint solution focused on quality, performance, and usability.
----
 
 ## 🇪🇸 Funcionalidades:
 - **Red:** Extracción de IP pública, configuración completa de interfaces y tabla ARP.
