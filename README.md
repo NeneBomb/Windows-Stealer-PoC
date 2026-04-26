@@ -1,15 +1,27 @@
 # MBADox - Windows Information Gathering PoC
 
+## 🇪🇸 Español
 Este script es una prueba de concepto (PoC) de un recolector de información para sistemas Windows escrito en Batch. Extrae artefactos del sistema, configuraciones de red y datos de hardware.
+Este proyecto ha sido desarrollado de manera colaborativa por Germán Soto Sánchez y Juan Carlos Ramírez Gutiérrez, combinando sus conocimientos y experiencia para dar forma a una solución conjunta enfocada en la calidad, el rendimiento y la usabilidad.
 
+## 🇺🇸 English
+This script is a proof of concept (PoC) of an information collector for Windows systems written in Batch. It extracts system artifacts, network configurations, and hardware data.
+This project was collaboratively developed by Germán Soto Sánchez and Juan Carlos Ramírez Gutiérrez, combining their knowledge and experience to create a joint solution focused on quality, performance, and usability.
 ---
 
-## Funcionalidades / Features:
-- **Red/Network:** Extracción de IP pública, configuración completa de interfaces y tabla ARP.
+## 🇪🇸 Funcionalidades:
+- **Red:** Extracción de IP pública, configuración completa de interfaces y tabla ARP.
 - **WiFi:** Volcado de perfiles WiFi y claves almacenadas en texto claro (`key=clear`).
 - **Hardware:** Detalles técnicos de CPU, RAM, BIOS, GPU y Placa Base.
 - **Software:** Enumeración de programas instalados, procesos activos y persistencia.
 - **Credenciales:** Extracción de credenciales guardadas en el sistema (`cmdkey`).
+
+## 🇺🇸 Features:
+- **Network:** Extraction of public IP, full network interface configuration, and ARP table.
+- **WiFi:** Dump of saved WiFi profiles and stored passwords in clear text (key=clear).
+- **Hardware:** Technical details of CPU, RAM, BIOS, GPU, and motherboard.
+- **Software:** Enumeration of installed programs, running processes, and persistence mechanisms.
+- **Credentials:** Extraction of system-stored credentials (cmdkey).
 
 ## Uso / Usage (Español/English)
 
@@ -28,6 +40,9 @@ Este script es una prueba de concepto (PoC) de un recolector de información par
 ---
 
 ## Disclaimer / Aviso Legal
+
+### 🇪🇸
 Este proyecto fue desarrollado exclusivamente con fines educativos y de investigación en ciberseguridad. El autor no se hace responsable del mal uso de esta herramienta.
 
+### 🇺🇸
 This project was developed for educational and ethical security research purposes only. The author is not responsible for any misuse of this tool.
