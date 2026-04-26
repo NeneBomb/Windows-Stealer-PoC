@@ -1,5 +1,11 @@
 # MBADox - Windows Information Gathering PoC
 
+<p align="center">
+  <a href="https://github.com/0x5070/Windows-Stealer-PoC/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=0x5070/Windows-Stealer-PoC" />
+  </a>
+</p>
+
 ## 🇪🇸 Español
 Este script es una prueba de concepto (PoC) de un recolector de información para sistemas Windows escrito en Batch. Extrae artefactos del sistema, configuraciones de red y datos de hardware.
 Este proyecto ha sido desarrollado de manera colaborativa por Germán Soto Sánchez y Juan Carlos Ramírez Gutiérrez, combinando sus conocimientos y experiencia para dar forma a una solución conjunta enfocada en la calidad, el rendimiento y la usabilidad.
